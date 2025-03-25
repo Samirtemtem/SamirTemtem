@@ -7,9 +7,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=samirtemtem&color=blue" alt="Profile views">
-  <a href="https://wakatime.com/@139a4c52-8b15-48ba-8ed1-a3e108ef6a3f">
-    <img src="https://wakatime.com/badge/user/139a4c52-8b15-48ba-8ed1-a3e108ef6a3f.svg" alt="Total time coded since Oct 7 2021" />
-  </a>
 </p>
 
 ## About Me
