@@ -8,6 +8,10 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=samirtemtem&color=blue" alt="Profile views">
 </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=samirtemtem&show_icons=true&theme=radical"
+" alt="Profile views">
+</p>
 
 ## About Me
 
