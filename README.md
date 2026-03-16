@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hey guys! My name is Samir Temtem, I'm 24 years old. Currently studying _Software Engineering_ at [ESPRIT](https://www.esprit.tn/) and graduated as _Full Stack Web Developer_ at [ISET Djerba](https://www.isetjb.rnu.tn/).
+Hey guys! My name is Samir Temtem, I'm 24 years old. Currently studying _Software Engineering_ at [ESPRIT](https://www.esprit.tn/) and graduated as _Full Stack Developer_ at [ISET Djerba](https://www.isetjb.rnu.tn/).
 
 ### I'm always looking for new challenges... 🔭
 
